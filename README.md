@@ -1,7 +1,7 @@
 # stock-market-analytics-engineer-project
 
 ## Introduction 
-This project aims to perform end-to-end data engineer analytics on the Yahoo! Stock Market API using various tools and technologies, including Astro CLI, Airflow, PostgreSQL, Min.io (AWS S3 Like Data Storage), Spark, and Metabase. 
+This project aims to perform end-to-end data analytics engineer on the Yahoo! Stock Market API using various tools and technologies, including Astro CLI, Airflow, PostgreSQL, Min.io (AWS S3 Like Data Storage), Spark, and Metabase. 
 
 Executive summary: 
 
